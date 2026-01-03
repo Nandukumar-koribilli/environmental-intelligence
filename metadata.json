@@ -1,0 +1,5 @@
+{
+  "name": "EcoGuard - Industrial Environmental Intelligence",
+  "description": "An AI-powered dashboard for small-to-mid-scale industries to understand and mitigate environmental risks using Google Gemini.",
+  "requestFramePermissions": []
+}
